@@ -1,4 +1,5 @@
 <?php
+    echo "Deuxiéme version<br>";
     $n = 1;    
     $m = 2;
     echo "instruction 1 : ".$n." ".$m."<br>";
